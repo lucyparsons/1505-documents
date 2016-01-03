@@ -1,0 +1,275 @@
+PEN-LINK
+
+It’s the Key
+
+5936 VanDervoort Drive | Lincoln, NE 68516
+402.421.8857 phone I 402.421.9287 fax
+
+BILL TO:
+
+Bill To
+3340 West Fillmore
+
+Chicago IL 60624
+Darren Prouty 12/15/2012
+FOB Origin Ground
+
+2012-2013 Maintenance
+
+1 COLLECTION MAINTENANCE - PREMIUM
+Period of Perfon11anceis 12/1/2012 through 11/30/2013
+1 XNET MAINTENANCE - PREMIUM
+Period of Performance is 12/1/2012 through 11/30/2013
+
+2013-2014 Maintenance
+
+1 COLLECTION MAINTENANCE - PREMIUM
+Period of Perfonnance is 12/1/2013 through 11/30/2014
+1 XNET MAINTENANCE - PREMIUM
+Period of Performance is 12/1/2013 through 11/30/2014
+
+2014-2015 Maintenance
+
+1 COLLECTION MAINTENANCE - PREMIUM
+Period of Performance is 12/1/2014 through 11/30/2015
+1 XNET MAINTENANCE - PREMIUM
+Period of Performance is 12/1/2014 through 11/30/2015
+
+Pen-Link, Ltd is a U.S. - Based Small Business
+
+QUOTE
+
+QUO-01487-5Z12C3
+Date: 10/4/2012
+Revision: 6
+SHIP TO:
+
+Ship To
+3340 West Fillmore
+
+Chicago IL 60624
+
+Chicago PD-Chicago-Technical Service Unit
+
+Net 30
+
+$127.566.67 $127,566.67
+$9505.00 $9.605.00
+
+$1 37. 1 71 .67
+
+$127,566.67 $127.566.67
+$9605.00 $9.605 .00
+$137.171 .67
+
+$127.566.66 $127,566 66
+$9.605.00 $9.605.00
+
+DUNS: 195956636 / TIN: 47-0707585 / CAGE: 0K6H9
+
+Page: 1
+
+PEN-LINK
+
+QUOTE
+It's the Key"
+
+$137,171.66
+3-Year Maintenance Contract for the following software licenses:
+60 - Pen-Link Intercept with Pen-Proxy Services; 30 Call Content $000
+Channels; 1 LINCOLN Admin Software; 2 Xnet IP Intercept with $000
+Decoding Module; 5 IP Call Content Channels; 1 LINCOLN IP.
+Standard contract pricing is $164,800 annually; however Pen-Link $413515-0°
+has applied a discount in the amount of $27,628.33 per annum for
+a 3-Year Contract. Maintenance can be paid annually with a
+Purchase Order issued for the full 3-Year Contract.
+
+Pen-Link, Ltd is a U.S. - Based Small Business DUNS: 195956636 / TIN: 47-0707585 / CAGE: 0K6H9
+
+Page: 2
+
+  QUOTE
+
+It's the Key
+
+The following terms and definitions apply throughout this document.
+1.1. Pen-Link Software. Pen-Link Software is software developed and manufactured by Pen-Link, Ltd.
+
+1.2. Pen-Link Customer (also "C ustomer"). A Pen-Link Customer. or Customer, is any agency or other entity that has one or more current, valid
+Licenses for Pen-Link Software purchased from or through Pen-Link, Ltd.
+
+1.3. Basic Technical Support Package. Entities our customers to normal business hours telephone support at Pen-Link. Ltd.‘s published number
+and/or assistance via email.
+
+1.4. Standard Maintenance and Support. Standard Maintenance is a Maintenance option that includes Software Updates. Software Upgrades, and
+Basic Technical Support as defined herein.
+
+1.5. Premium Maintenance and Support. Premium Maintenance is a Maintenance option that includes Software Updates, Software Upgrades, and
+Premium Technical Support as defined herein.
+
+1.6. Software Update. A Software Update is an enhancement—including additions, changes. and bug t"rxes—to Pen-Link Software that is already in
+the applicable commercial market. Software Updates occur within the same major version number of an existing software product. For example.
+replacing Pen-Link \/8.1.29.0 with Pen-Link v8.1.30.0 would constitute a Software Update. Such an update is often referred to as a “New Build" of the
+Pen-Link Software.
+
+1.7. Software Upgrade. A Software Upgrade is the replacement of an older major version of an existing Pen-Link Software product or products. with
+a newer major version of a Pen-Link Software product or products. to the extent required to maintain the same operational functionality that was
+supported by the Pen-Link Software prior to the upgrade. For example, upgrading from Pen-l.ink Version 7 to Pen-Link Version 8 (where 8 is the
+newer major version) would constitute a Software Upgrade, so long as the installation of the newer version of the Pen-Link Software supported at least
+the same operational functionality that the Customer had under Pen-Link version 7. Upgrades do not apply to new software products that Pen-Link,
+Ltd. may release to the commercial market from time to time in the future.
+
+1.8. Basic Technical Support (also “Basic Support"). Basic Technical Support is a Support option that includes telephone-based Technical
+Support for the Pen-Link Software licensed by the Customer. Basic Technical Support also includes assistance via email or other automated
+processes such that Pen-Link. Ltd. may deem fit to offer. Basic Technical Support may be obtained by contacting Pen-Link, Ltd. via its published,
+main telephone number (currently 402-421-8857). its general support email account (support@pen|ink.com). or its World Wide Web site
+(vvvvw.mnIjgk.ggg). Basic Technical Support is available Monday through Friday. from 8:00 AM to 5:00 PM Central time, except for holidays.
+
+1.9. Premium Technical Support (also "Premium Support"). Premium Technical Support is a Support option that includes all of the support
+services offered with Basic Technical Support (Section 1.8), plus Emergency After-Hours support for live communication interception and collection
+operations. Emergency After-Hours support services may be accessed through methods, including telephone access. that are provided to the
+customer at the time of purchase. Emergency After-Hours support services are available Monday through Friday, from 5:01 PM - 7:59 AM Central
+time and all day Saturday & Sunday, including holidays.
+
+1.10. Maintenance and Support Agreement ("Agreement"). This Maintenance and Support Agreement is the Agreement between Pen-Link, Ltd.
+and the Customer regarding the terms and conditions under which the Maintenance and Support Services described in this document are purchased
+and provided.
+
+2.1. Maintenance is an optional service offered by Pen-Link Ltd. to augment a purchase of Pen-Link Software. Maintenance may be purchased by a
+Pen-Link Customer along with, or subsequent to, the purchase of Pen-Link Software.
+
+2.2. Maintenance is offered only pursuant to a Maintenance and Support Agreement between the Customer and Pen-Link, Ltd.
+
+2.3. Pen-Link, Ltd. offers two levels of Maintenance that a Customer may purchase: Standard Maintenance and Premium Maintenance, as defined in
+Sections 1.4 and 1.5 respectively.
+
+Pen-Link, Ltd is a U.S. - Based Small Business DUNS: 195956636 / TIN: 47-0707585 / CAGE: 0K6H9
+
+Page: 3
+
+P °  QUOTE
+
+it's the Key
+
+2.4. Maintenance applies only to software developed and manufactured by Pen-Link. Ltd. Maintenance does not apply to software developed and
+manufactured by companies other than Pen-Link, Ltd. Unless otherwise speciﬁed in a separate. written agreement between Pen-Link, Ltd. and the
+Customer. to which Pen-Link. Ltd. is a signatory party. Maintenance does not include updates, upgrades. or bug fixes to. or new releases of, any third—
+party software or hardware purchased through Pen-Link, Ltd. or with the assistance of Pen-Link, Ltd. Support for third party software and hardware
+products bundled with Pen-Link, Ltd. licensed Pen-Link Software is available only according to the third-party manufacturer's support policies.
+
+2.5. All Maintenance deliveries are subject to the terms and conditions of the applicable End User License Agreement (“EULA”) for the Licensed
+Software.
+
+3.1. Technical Support ("Support") is an optional service offered by Pen-Link. Ltd. to support a Customer in the authorized use of licensed Pen-Link
+Software.
+
+3.2. Support is offered only pursuant to a Maintenance and Support Agreement between the Customer and Pen-Link, Ltd.
+
+3.3. Pen-Link, Ltd. offers two levels of Technical Support: Basic Technical Support and Premium Technical Support. as defined in Sections 1.8 and
+1.9 respectively.
+
+3.4. Pen-Link, Ltd. will make every reasonable attempt to answer a Customers Support questions and address a Customer's Support concems.
+However. Support is offered on a good faith, diligent effort basis only. and Pen-Link. Ltd. may not be able to resolve every request for Support.
+
+3.5. Technical Support is provided for ongoing. operational use of the licensed Pen-Link Software; Support is not intended to be a substitute for
+training or professional services necessary for the implementation or system redesign of the licensed Pen-Link Software, which are outside the scope
+of this agreement. All such services, inciuding without limitation, training, on-site assistance, consultation. custom programming and other software
+customizations, network design, and database and network administration. may be provided pursuant to separate agreements with and by Pen-Link.
+Ltd.
+
+3.6. Unless otherwise specified in a separate, written agreement between Pen-Link. Ltd. and the Customer, to which Pen-Link, Ltd. is a signatory
+party. Support is available only for the current and immediately preceding version of the licensed Pen-Link Software. Support for a previous version of
+Pen-Link Software is provided up to a maximum of eighteen (18) months aﬂer the release of the current version of software, provided that the
+Customer and Pen-Link, Ltd. are parties to a current Maintenance and Support Agreement.
+
+37. Unless otherwise specified in a separate. written agreement between Pen-Link, Ltd. and the Customer, to which Pen-Link, Ltd. is a signatory
+party. Support does not include any of the following:
+
+3.7.1. Support for database products or so-called "DBMS" or Database Management Systems. including without limitations. setup and
+alteration and/or configuration of such products, and resolution of errors related directly to such products.
+
+3.7.2. Resolving network, workstation, or other environmental errors not directly related to the licensed Pen-Link Software.
+
+3.7.3. Support for any licensed Pen-Link Software working on or with any version of any database. Database Management System, operating
+system, or other hardware or software product or system that is not speciﬁcally identified as interoperable and compatible with the specific
+version of the license Pen-Link Software being used.
+
+3.7.4. Support for any "alpha," "beta," or other preproduction release of any software, including Pen-Link Software.
+3.7.5. Support for any changes to Pen-Link Software made outside of the product's scope by a customer or by any third party.
+3.7.6. Support for any licensed Pen-Link Software that is used for a purpose, or in a manner, for which it was not designed.
+
+4.1. Maintenance and Support Agreements are options made available by Pen-Link, Ltd. for a Customer to purchase.
+4.2. Maintenance and Support Agreements are offered on an annual basis.
+4.3. Unless otherwise speciﬁed in a separate. written agreement between Pen-Link, Ltd. and the Customer, to which Pen-Link. Ltd. is a signatory
+
+party, Maintenance and Support Agreements will renew automatically at the end of each annual term. provided that the Customer pays the applicable
+renewal fees.
+
+Pen-Link, Ltd is a U.S. - Based Small Business DUNS: 195956636 / TIN: 47-0707585 / CAGE: 0K6H9
+
+Page: 4
+
+  QUOTE
+
+It's the Key"
+
+4.4. Unless otherwise specified in a separate. written agreement between Pen-Link. Ltd. and the Customer, to which Pen-Link, Ltd. is a signatory
+party, a Customer's Maintenance and Support Agreement is to be paid at the start of each annual term.
+
+4.5. Payment. The Customer will be invoiced prior to any annual Maintenance and Support term (initial or renewal terms). The Customer agrees to
+make payment to Pen-Link. Ltd. no later than thirty (30) days from the date of the invoice, unless otherwise agreed upon in writing. Unless otherwise
+instructed, the Customer will make payment directly to Pen-Link, Ltd.
+
+4.6. Pen-Link. Ltd.'s obligations hereunder are subject to the Customer's timely payment for Maintenance and Support. Failure of the Customer to pay
+fees in a timely manner for any term of Maintenance and Support may, at the sole discretion of Pen-Link, Ltd., result in the termination or suspension
+of Maintenance and Support services.
+
+4.7. Lapses and Reinstatement. If a Customer's Maintenance and Support agreement terminates as a result of expiration or othenrvise pursuant to
+this Agreement, and the Customer decides to reinstate the Agreement, the Customer will be required to pay the applicable Maintenance and Support
+fees for the lapsed period (the time elapsed between the Agreement expiring and subsequently being reinstated). plus a reinstatement fee equal to
+10% of the fees for the lapsed period.
+
+4.8. Taxes. The Customer is responsible for payment of all applicable taxes, value added taxes, or other taxes (however designated) related to the
+Maintenance and Support of the Licensed Software. unless otherwise agreed upon and stated in writing.
+
+4.9. This Agreement will automatically terminate for each Licensed Pen-Link Software product upon termination of the EULA corresponding to such
+Pen-Link Software product.
+
+4.10. The Customer may terminate this Agreement for Convenience, but the Customer will not be entitled to a refund of any paid fees in such an
+event.
+
+4.11. Additional Orders. Orders by the Customer for additional Pen-Link Software products or additional licenses of Pen-Link Software products wilt
+increase the Customer's Maintenance and Support fees under this Agreement.
+
+5.1. Pen-Link, Ltd. warrants that the Maintenance and Support services provided to the Customer under this Agreement shall be performed with due
+care. and in a professional and workmanlike manner. Pen-Link, Ltd. does not otherwise warrant the accuracy or completeness of any services
+provided pursuant this Agreement. PEN-LINK, LTD. DISCLAIMS ANY AND ALL OTHER WARRANTIES, EXPRESS, IMPLIED OR OTHERWISE,
+IN CONNECTION WITH THE SUBJECT OF THIS AGREEMENT. IN NO EVENT, UNDER ANY THEORY OF LAW. SHALL EITHER PARTY
+AND/OR ITS AFFILIATES BE LIABLE TO THE OTHER FOR ANY INDIRECT. SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OR
+LOST PROFITS AND/OR ITS AFFILIATES ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. PEN-LINK. LTD.'S LIABILITY UNDER
+THIS AGREEMENT SHALL NOT EXCEED THE PREPAID AND UNUSED PORTION OF THE CUSTOMER'S MAINTENANCE AND SUPPORT
+FEES PAID TO PEN-LINK. LTD. PEN-l.INK, LTD. SPECIFICALLY DISCLAIMS ALL RESPONSIBILITY FOR ANY SERVICES PROVIDED BY
+ANY PARTNER OR ANY OTHER THIRD PARTY.
+
+5.2. It is the sole responsibility of the Customer to make and maintain adequate backup copies of software and data.
+5.3. In no event will Pen-Link. Ltd. be responsible for lost data.
+
+6.1. Entire Agreement. This Agreement constitutes the entire Agreement between the Customer and Pen«Link, Ltd. related to the subject matter
+hereof, and additions or modiﬁcations shall be binding upon the parties only if the same shall be in writing and duly executed by the Customer and a
+duly authorized ofﬁcer of Pen-Link, Ltd. The Licensed Pen-Link Software is licensed under a separate End User License Agreement (EULA) and
+professional services, if any. are provided under a separate professional services agreement. The terms and conditions of any Customer purchase
+order are only binding on Pen-Link, Ltd. if they are agreed to in writing by an authorized Pen-Link. Ltd. ofﬁcer and in a document other than the
+purchase order.
+
+6.2. Waiver. The waiver or failure of either party to exercise in any respect any right shall not be deemed a waiver of any further or future right.
+
+6.3. Assignment. The Customer may assign this Agreement only in connection with a proper and valid assignment of the corresponding EULA to the
+extent permitted there under, provided thath the Customer gives written notice of such assignment to Pen-Link, Ltd. Pen-Link. Ltd may freely assign
+this Agreement to a purchaser of that portion of Pen-Link Ltd.'s business to which this Agreement relates, to the surviving corporation in the event of a
+merger, and to any affiliate or third-party whom Pen-Link authorizes to provide Maintenance and Support for the Licensed Pen-Link Software of the
+nature contemplated hereby.
+
+Pen-Link, Ltd is a U.S. - Based Small Business DUNS: 195956636 / TIN: 47-0707585 / CAGE: OK6H9
+
+Page: 5
+
